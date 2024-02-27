@@ -1,0 +1,12 @@
+.background{
+    background: linear-gradient(#00A7F8,#00C3F9);
+    color: white;
+    font-family: 'sans-serif',serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li{
+    background-color: white;
+}
